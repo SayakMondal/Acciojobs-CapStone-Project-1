@@ -1,0 +1,1 @@
+This is a Capstone Project created by me during my course on Data Analytics on Acciojobs. It requires the use of PowerBI, Excel, SQL< Data Analysis and logical thinkingto extract the data out of the given dataset. 
